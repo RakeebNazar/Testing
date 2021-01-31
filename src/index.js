@@ -10,3 +10,4 @@ var obj = [
   ["n", "rakee"],
 ];
 console.log(Object.fromEntries(obj));
+console.log("done");
